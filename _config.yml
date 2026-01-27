@@ -1,7 +1,10 @@
 title: Public Tutorial
 description: A tutorial page with images and text
 theme: just-the-docs
-remote_theme: pmarsceill/just-the-docs
+# Use remote_theme
+remote_theme: "pmarsceill/just-the-docs"  # <-- must be quoted
+plugins:
+  - jekyll-remote-theme
 
 # Optional settings
 logo: images/logo.png       # put your logo in images folder (optional)
