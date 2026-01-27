@@ -1,0 +1,3 @@
+- [Home](index.md)
+- [Example Image](index.md#example-image)
+- [Another Section](index.md#another-section)
