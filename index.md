@@ -1,5 +1,8 @@
 ---
 title: Home
+nav_order: 1
+has_toc: true
+has_children: true
 ---
 
 ![logo](images/background.jpg)

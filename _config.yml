@@ -13,3 +13,6 @@ logo: images/logo.png   # put your logo in images folder (optional)
 header:
   show: true
 
+show_toc: true
+
+
