@@ -1,8 +1,9 @@
 ---
 title: Home
+layout: home
 nav_order: 1
-has_toc: true
-has_children: true
+description: "This is a Public Tutorial from M-ichae-l."
+permalink: /
 ---
 
 ![logo](images/background.jpg)
