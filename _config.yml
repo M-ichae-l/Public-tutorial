@@ -5,8 +5,9 @@
 title: Public Tutorial
 description: A tutorial page with images and text
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://m-ichae-l.github.io/Public-tutorial/" # the base hostname & protocol for your site
+url: "https://m-ichae-l.github.io"
+baseurl: "/Public-tutorial"
+
 repository: M-ichae-l/Public-tutorial # for github-metadata
 
 #permalink: pretty
@@ -18,10 +19,10 @@ remote_theme: "pmarsceill/just-the-docs"
 
 plugins:
   - jekyll-remote-theme
-#  - jekyll-seo-tag
+  - jekyll-seo-tag
 #  - jekyll-github-metadata
 #  - jekyll-include-cache
-#  - jekyll-sitemap
+  - jekyll-sitemap
 
 # =========================
 # Branding
