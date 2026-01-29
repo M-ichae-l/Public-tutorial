@@ -1,7 +1,7 @@
 ---
 title: How to set up docker MQTT locally? By EMQX
 nav_order: 2
-parent: docs
+parent: Tutorials
 ---
 
 ## Install Docker
