@@ -4,7 +4,7 @@ nav_order: 2
 parent: docs
 ---
 
-# Install Docker
+## Install Docker
 
 Step 1.1 — Update system
 
@@ -32,7 +32,7 @@ docker --version
 docker-compose --version
 ```
 
-# Create EMQX project folder
+## Create EMQX project folder
 
 Step 2.1 — Create folder
 
