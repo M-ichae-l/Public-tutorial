@@ -71,9 +71,8 @@ footer_content: 'Copyright &copy; 2017–2026 M-ichae-l'
 # =========================
 # GitHub edit links
 # =========================
-#gh_edit_link: true
-#gh_edit_link_text: "Edit this page on GitHub"
-#gh_edit_repository: "https://github.com/M-ichae-l/Public-tutorial"
-#gh_edit_branch: "main"
-#gh_edit_view_mode: "tree"
-
+gh_edit_link: true
+gh_edit_link_text: "Edit this page on GitHub"
+gh_edit_repository: "https://github.com/M-ichae-l/Public-tutorial"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
