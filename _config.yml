@@ -50,21 +50,21 @@ logo: images/logo.png   # put your logo in images folder (optional)
 # Navigation
 # =========================
 nav_enabled: true
-nav_sort: case_sensitive
-nav_error_report: true
+#nav_sort: case_sensitive
+#nav_error_report: true
 
 # =========================
 # Search
 # =========================
 search_enabled: true
-search:
-  heading_level: 2
-  previews: 2
-  preview_words_before: 3
-  preview_words_after: 3
-  rel_url: true
-  button: false
-  focus_shortcut_key: "k"
+#search:
+#  heading_level: 2
+#  previews: 2
+#  preview_words_before: 3
+#  preview_words_after: 3
+#  rel_url: true
+#  button: false
+#  focus_shortcut_key: "k"
 
 # =========================
 # Content features
@@ -80,15 +80,15 @@ back_to_top_text: "Back to top"
 
 footer_content: 'Copyright &copy; 2017–2026 M-ichae-l'
 
-last_edit_timestamp: true
-last_edit_time_format: "%b %e %Y at %I:%M %p"
+#last_edit_timestamp: true
+#last_edit_time_format: "%b %e %Y at %I:%M %p"
 
 # =========================
 # GitHub edit links
 # =========================
-gh_edit_link: true
-gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/M-ichae-l/Public-tutorial"
-gh_edit_branch: "main"
-gh_edit_view_mode: "tree"
+#gh_edit_link: true
+#gh_edit_link_text: "Edit this page on GitHub"
+#gh_edit_repository: "https://github.com/M-ichae-l/Public-tutorial"
+#gh_edit_branch: "main"
+#gh_edit_view_mode: "tree"
 
