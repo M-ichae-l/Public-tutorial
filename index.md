@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: home
 nav_order: 1
 description: "This is a Public Tutorial from M-ichae-l."
 permalink: /
