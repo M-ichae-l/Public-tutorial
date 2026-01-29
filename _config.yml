@@ -34,10 +34,10 @@ remote_theme: "pmarsceill/just-the-docs"
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
-  - jekyll-sitemap
+#  - jekyll-seo-tag
+#  - jekyll-github-metadata
+#  - jekyll-include-cache
+#  - jekyll-sitemap
 
 # =========================
 # Branding
