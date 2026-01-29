@@ -25,7 +25,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://m-ichae-l.github.io/Public-tutorial/" # the base hostname & protocol for your site
 repository: M-ichae-l/Public-tutorial # for github-metadata
 
-permalink: pretty
+#permalink: pretty
 
 # =========================
 # Theme (GitHub Pages safe)
@@ -34,10 +34,10 @@ remote_theme: "pmarsceill/just-the-docs"
 
 plugins:
   - jekyll-remote-theme
-  - jekyll-seo-tag
-  - jekyll-github-metadata
-  - jekyll-include-cache
-  - jekyll-sitemap
+#  - jekyll-seo-tag
+#  - jekyll-github-metadata
+#  - jekyll-include-cache
+#  - jekyll-sitemap
 
 # =========================
 # Branding
