@@ -130,7 +130,7 @@ Backend: Built-in Database
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image01.png"
     style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
-  >
+  />
 </a>
 
 
