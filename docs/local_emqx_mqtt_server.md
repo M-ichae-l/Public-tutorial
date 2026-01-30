@@ -119,7 +119,9 @@ Mechanism: Password-Based
 Backend: Built-in Database
 ```
 
-![image01]({{ site.baseurl }}/images/local_mqtt_emqx/image01.png)({{ site.baseurl }}/images/local_mqtt_emqx/image01.png)
+[![image01]({{ site.baseurl }}/images/local_mqtt_emqx/image01.png)]
+({{ site.baseurl }}/images/local_mqtt_emqx/image01.png)
+
 
 ![image02]({{ site.baseurl }}/images/local_mqtt_emqx/image02.png)({{ site.baseurl }}/images/local_mqtt_emqx/image02.png)
 
