@@ -122,10 +122,10 @@ Backend: Built-in Database
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image01.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image01.png"
-    alt="image01"
-    style="max-width: 50%; width: auto; display: block; margin: 0 auto; cursor: zoom-in;"
-  />
+    style="max-width:50%; max-height:200px; display:block; margin:auto; cursor:zoom-in;"
+  >
 </a>
+
 
 ![image02]({{ site.baseurl }}/images/local_mqtt_emqx/image02.png)({{ site.baseurl }}/images/local_mqtt_emqx/image02.png)
 
