@@ -122,16 +122,7 @@ Backend: Built-in Database
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image01.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image01.png"
-    alt="image01"
-    style="max-width: 50%; width: auto; display: block; margin: 0 auto;"
-  />
-</a>
-
-
-<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image01.png" target="_blank">
-  <img
-    src="{{ site.baseurl }}/images/local_mqtt_emqx/image01.png"
-    style="max-width:50%; max-height:200px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
   />
 </a>
 
