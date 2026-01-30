@@ -126,20 +126,44 @@ Backend: Built-in Database
   />
 </a>
 
+<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image02.png" target="_blank">
+  <img
+    src="{{ site.baseurl }}/images/local_mqtt_emqx/image02.png"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+  />
+</a>
 
-![image02]({{ site.baseurl }}/images/local_mqtt_emqx/image02.png)({{ site.baseurl }}/images/local_mqtt_emqx/image02.png)
+<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image03.png" target="_blank">
+  <img
+    src="{{ site.baseurl }}/images/local_mqtt_emqx/image03.png"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+  />
+</a>
 
-![image03]({{ site.baseurl }}/images/local_mqtt_emqx/image03.png)({{ site.baseurl }}/images/local_mqtt_emqx/image03.png)
-
-![image04]({{ site.baseurl }}/images/local_mqtt_emqx/image04.png)({{ site.baseurl }}/images/local_mqtt_emqx/image04.png)
+<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image04.png" target="_blank">
+  <img
+    src="{{ site.baseurl }}/images/local_mqtt_emqx/image04.png"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+  />
+</a>
 
 ## Add User
 
 Step 7.1 - Click Users then Add
 
-![image05]({{ site.baseurl }}/images/local_mqtt_emqx/image05.png)
+<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image05.png" target="_blank">
+  <img
+    src="{{ site.baseurl }}/images/local_mqtt_emqx/image05.png"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+  />
+</a>
 
-![image06]({{ site.baseurl }}/images/local_mqtt_emqx/image06.png)
+<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image06.png" target="_blank">
+  <img
+    src="{{ site.baseurl }}/images/local_mqtt_emqx/image06.png"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+  />
+</a>
 
 Step 7.2 - Creat user name and password of the users
 
@@ -148,7 +172,12 @@ Username: testuser
 Password: testpass
 ```
 
-![image07]({{ site.baseurl }}/images/local_mqtt_emqx/image07.png)
+<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image07.png" target="_blank">
+  <img
+    src="{{ site.baseurl }}/images/local_mqtt_emqx/image07.png"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+  />
+</a>
 
 ## Enable Authorization (ACL / permissions)
 
@@ -157,22 +186,42 @@ Authorization = what are you allowed to do
 
 Step 8.1 - Open Authorization page
 
-![image08]({{ site.baseurl }}/images/local_mqtt_emqx/image08.png)
+<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image08.png" target="_blank">
+  <img
+    src="{{ site.baseurl }}/images/local_mqtt_emqx/image08.png"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+  />
+</a>
 
 Step 8.2 - Create authorization source
 
 Click Create
 
-![image09]({{ site.baseurl }}/images/local_mqtt_emqx/image09.png)
+<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image09.png" target="_blank">
+  <img
+    src="{{ site.baseurl }}/images/local_mqtt_emqx/image09.png"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+  />
+</a>
 
 ```bash
 Backend: Built-in Database
 ```
-![image10]({{ site.baseurl }}/images/local_mqtt_emqx/image10.png)
+<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image10.png" target="_blank">
+  <img
+    src="{{ site.baseurl }}/images/local_mqtt_emqx/image10.png"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+  />
+</a>
 
 Step 8.3 - Add permission for Username
 
-![image11]({{ site.baseurl }}/images/local_mqtt_emqx/image11.png)
+<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image11.png" target="_blank">
+  <img
+    src="{{ site.baseurl }}/images/local_mqtt_emqx/image11.png"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+  />
+</a>
 
 ## Install Mosquitto clients
 
@@ -210,15 +259,30 @@ Install program from [MQTT Explore](https://mqtt-explorer.com/){: .btn .btn-prim
 
 Setup BASIC setting:
 
-![image12]({{ site.baseurl }}/images/local_mqtt_emqx/image12.png)
+<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image12.png" target="_blank">
+  <img
+    src="{{ site.baseurl }}/images/local_mqtt_emqx/image12.png"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+  />
+</a>
 
 Setup ADVANCED setting:
 
-![image13]({{ site.baseurl }}/images/local_mqtt_emqx/image13.png)
+<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image13.png" target="_blank">
+  <img
+    src="{{ site.baseurl }}/images/local_mqtt_emqx/image13.png"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+  />
+</a>
 
 Connect, then chose the topic and PUBLISH
 
-![image14]({{ site.baseurl }}/images/local_mqtt_emqx/image14.png)
+<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image14.png" target="_blank">
+  <img
+    src="{{ site.baseurl }}/images/local_mqtt_emqx/image14.png"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+  />
+</a>
 
 ## Clean restart
 
