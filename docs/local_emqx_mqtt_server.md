@@ -122,36 +122,28 @@ Backend: Built-in Database
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image01.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image01.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
-  />
-</a>
-
-<a href="{{ site.baseurl }}/images/local_mqtt_emqx/image01.png" target="_blank">
-  <img
-    src="{{ site.baseurl }}/images/local_mqtt_emqx/image01.png"
     style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
-
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image02.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image02.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image03.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image03.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image04.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image04.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
@@ -162,14 +154,14 @@ Step 7.1 - Click Users then Add
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image05.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image05.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image06.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image06.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
@@ -183,7 +175,7 @@ Password: testpass
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image07.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image07.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
@@ -197,7 +189,7 @@ Step 8.1 - Open Authorization page
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image08.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image08.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
@@ -208,7 +200,7 @@ Click Create
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image09.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image09.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
@@ -218,7 +210,7 @@ Backend: Built-in Database
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image10.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image10.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
@@ -227,7 +219,7 @@ Step 8.3 - Add permission for Username
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image11.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image11.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
@@ -270,7 +262,7 @@ Setup BASIC setting:
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image12.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image12.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
@@ -279,7 +271,7 @@ Setup ADVANCED setting:
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image13.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image13.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
@@ -288,7 +280,7 @@ Connect, then chose the topic and PUBLISH
 <a href="{{ site.baseurl }}/images/local_mqtt_emqx/image14.png" target="_blank">
   <img
     src="{{ site.baseurl }}/images/local_mqtt_emqx/image14.png"
-    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in;"
+    style="max-width:50%; max-height:400px; display:block; margin:auto; cursor:zoom-in; border: 2px solid #555; padding:5px; box-shadow: 3px 3px 8px rgba(0,0,0,0.4);"
   />
 </a>
 
